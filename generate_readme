@@ -6,6 +6,8 @@ README_HEADER="""# Personal wallpapers
 
 > Disclaimer: I do not own any of these wallpapers.
 
+My dotfiles can be found [here](https://loiccoyle.com/dots).
+
 # Gallery
 """
 echo "$README_HEADER" > README.md
