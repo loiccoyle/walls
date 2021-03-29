@@ -1,8 +1,5 @@
 name: generate-readme
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 jobs:
   generate-readme:
@@ -10,8 +7,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Format Playlists
-        run: sh generate_album
+      - name: Format README
+        run: sh generate_readme
       - name: Commit Changes
         run: |
           git config user.name github-actions
