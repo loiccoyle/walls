@@ -20,6 +20,7 @@
 ![moon.png](https://github.com/loiccoyle/walls/blob/main/moon.png?raw=true)
 ![mountain_retreat.jpg](https://github.com/loiccoyle/walls/blob/main/mountain_retreat.jpg?raw=true)
 ![nasa.png](https://github.com/loiccoyle/walls/blob/main/nasa.png?raw=true)
+![pier.jpg](https://github.com/loiccoyle/walls/blob/main/pier.jpg?raw=true)
 ![solar_system.png](https://github.com/loiccoyle/walls/blob/main/solar_system.png?raw=true)
 ![solitude.jpg](https://github.com/loiccoyle/walls/blob/main/solitude.jpg?raw=true)
 ![spacex-mars.png](https://github.com/loiccoyle/walls/blob/main/spacex-mars.png?raw=true)
