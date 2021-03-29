@@ -8,7 +8,7 @@ README_HEADER="""# Personal wallpapers
 
 # Gallery
 """
-echo "$README_HEADER" >> README.md
+echo "$README_HEADER" > README.md
 for wall_file in $(ls temp_walls); do
     img_url="https://github.com/loiccoyle/walls/blob/main/${wall_file}?raw=true"
     md_text="![${wall_file}](${img_url})"
