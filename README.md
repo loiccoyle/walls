@@ -2,6 +2,8 @@
 
 > Disclaimer: I do not own any of these wallpapers.
 
+My dotfiles can be found [here](https://loiccoyle.com/dots).
+
 # Gallery
 
 ![adromeda.jpg](https://github.com/loiccoyle/walls/blob/main/adromeda.jpg?raw=true)
