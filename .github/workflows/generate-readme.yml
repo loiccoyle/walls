@@ -1,0 +1,20 @@
+name: generate-readme
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Format Playlists
+        run: sh generate_album
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "[Bot] Generate README.md"
+          git push
