@@ -18,7 +18,6 @@ My dotfiles can be found [here](https://loiccoyle.com/dots).
 ![firewatch_dark.jpg](https://github.com/loiccoyle/walls/blob/main/firewatch_dark.jpg?raw=true)
 ![koy_blue.jpg](https://github.com/loiccoyle/walls/blob/main/koy_blue.jpg?raw=true)
 ![leaves.jpg](https://github.com/loiccoyle/walls/blob/main/leaves.jpg?raw=true)
-![mando.jpg](https://github.com/loiccoyle/walls/blob/main/mando.jpg?raw=true)
 ![mojave-night.jpg](https://github.com/loiccoyle/walls/blob/main/mojave-night.jpg?raw=true)
 ![moon.png](https://github.com/loiccoyle/walls/blob/main/moon.png?raw=true)
 ![mountain_retreat.jpg](https://github.com/loiccoyle/walls/blob/main/mountain_retreat.jpg?raw=true)
