@@ -34,3 +34,4 @@ My dotfiles can be found [here](https://loiccoyle.com/dots).
 ![valley.jpg](https://github.com/loiccoyle/walls/blob/main/valley.jpg?raw=true)
 ![valley_night.png](https://github.com/loiccoyle/walls/blob/main/valley_night.png?raw=true)
 ![waves.jpg](https://github.com/loiccoyle/walls/blob/main/waves.jpg?raw=true)
+![windows_11.jpg](https://github.com/loiccoyle/walls/blob/main/windows_11.jpg?raw=true)
